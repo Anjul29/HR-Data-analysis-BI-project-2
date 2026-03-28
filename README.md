@@ -122,6 +122,8 @@ Real-world HR analytics concepts
 
 Power BI dashboard design
 
+Data cleaning using Power Query
+
 Writing DAX measures
 
 Turning data into business insights
