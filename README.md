@@ -1,6 +1,6 @@
 🔍 Project Explanation: HR Data Analysis using Power BI
 
-This project focuses on analyzing Human Resources (HR) data to help organizations understand their workforce better and take data-driven HR decisions.
+
 
 📌 What problem does this project solve?
 
