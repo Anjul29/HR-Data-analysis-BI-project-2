@@ -1,4 +1,4 @@
-﻿EmployeeID,EmployeeName,Salary,Position,State,DateOfBirth,Gender,MaritalStatus,HiringDate,TerminationDate,EmploymentStatus,Department,RecruitmentSource,PerformanceScore,EngagementSurvey,EmployeeSatisfaction
+﻿mployeeID,EmployeeName,Salary,Position,State,DateOfBirth,Gender,MaritalStatus,HiringDate,TerminationDate,EmploymentStatus,Department,RecruitmentSource,PerformanceScore,EngagementSurvey,EmployeeSatisfaction
 1,John Smith,62506,Production Technician I,MA,07/10/83,"M ",Single,7/5/2011,NULL,Active,"Production       ",LinkedIn,Exceeds,4.6,5
 2,Sarah Johnson,104437,Sr. DBA,MA,05/05/75,"M ",Married,3/30/2015,6/16/2016,Voluntarily Terminated,IT/IS,Indeed,Fully Meets,4.96,3
 3,Michael Williams,64955,Production Technician II,MA,09/19/88,F,Married,7/5/2011,9/24/2012,Voluntarily Terminated,"Production       ",LinkedIn,Fully Meets,3.02,3
